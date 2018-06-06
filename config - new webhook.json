@@ -1,0 +1,12 @@
+{
+  "boxAppSettings": {
+    "clientID": "rcx28txderv383soqarxfklwv101k4di",
+    "clientSecret": "eDwpaw0PLSKo7D5L0DRcQYLsRqdnZFFb",
+    "appAuth": {
+      "publicKeyID": "mcwj7xhs",
+      "privateKey": "-----BEGIN ENCRYPTED PRIVATE KEY-----\nMIIFDjBABgkqhkiG9w0BBQ0wMzAbBgkqhkiG9w0BBQwwDgQIgVdNuWtSIjUCAggA\nMBQGCCqGSIb3DQMHBAgtbRfT37OIAgSCBMg1kWGOQAMlowAA0dgf6YckCINGGDYw\nqiq1uHl05da5aiH9lJav/ASHWyQHizZFSJHYLPKnrmcWadniwvp7o49DJsPWlKLQ\nkJwegYLdJOu5risxALk8FO77AmigNu1z/VDvRXLMlwVuRH+5iy6qedCxXk4m+fzH\nlMZnTuzMfSbsqwgSDQcU74Tn7EiCsjmpjmUxDVS3dtmJ7wyK+DxgQp4NNRvamvjo\npAoX7mGAvReAv3AgWcykr/rBYiPs+GN77cr+iDOi4VT3fy4OMn7AE42uUdHI4hSI\nvGXbtnnWX8o4zpH9RYbBG25t9D1JG5xo1s52wcGiZoYzBRZC/0xWdF4HeLLZI12x\nVA1Tvno7xlPJUymWzxXuYxp0imtBd72mAd2zf2SFNhwDA6VfQJQJNa0LR+KXBV+W\nzFTAyw1yP4TfVYcv1P1bl/qhKson3fHOjlEqrisikggUTzEp1j5bIDNzeBueEyVx\nkzHHJ6iR4rJR0dIWPzloI0g5OKHSW1DU12zOPrER7ko2Bt3oI+HXS0k7KitFx6Se\n4m5RF3IMNPaaWfB6DCqSS3ztuyp5lRm+w4sDPp+nexm+Q1fc43qh50pENz4RUzSG\n4+DD0kH2iN0zKbQ3YoGv12DBgRV1JHBCIi1CtAZzsM3fprb0It+P3AsANpyDBWzp\nn14YaVE4YnQM8zTDsmW1+wYOQDv7mQqnc3y5lyp25etbQDM3CqZmytEMhPQ9DZKd\nFT4Urw8wgDgAEsEBlqxqKvfShT60rGZttA9U+B4FydAeyeymZKxvn5HA/XfTNr13\nDwWwooxtv5BIyweQ76VYNh6vNpkTAUOdYWk9nKWCG/dfcmWPaty3++0HTUpVJB2G\n4Or44ypih3hwAfCUHIGyuNMYjU2JB2F62szQb4ydChFVoaqGBDuDfWc154XylEYJ\nFIomuuUxftrvni4k0S4Sugm+Yp79G/8QshHVyRPrAEGxcAoccu2JWAeQ+cML8gaw\nUukXLId4d3ghJc/ma0PB5LLbjao6u55lv35vP+l9MWDDuOhIAGK1qhL6i1kc0iA4\n+Cjkxx159pTwDy96WnD2+R5ucEdIDjUOOKfsTX4InXfi0IBvOxroW5FqEKxAozdo\nGO0QXZDTrwLDyEziFtVui5dxqpBTjj2qIe35JzVUP7ELxk+G7oUwD5hngg3YfjQX\ne4lzrtQBThmBhnyUev6namWsQSbCNJcM8t81xd+LjpwsicpAOvVQd92DKLdulJ+/\n9bXXrWpd2KugzXJ+Mu2+vpwIT8qOmhYjg93IXKlOkgcbwclhVGgS/mEBmj3nma5k\nzkMwCphk53S8swAer+8GYSk/Y14zVrsxRHw0G+C8RcYm+le5EfYyfzAdM670ue4V\n8Hu8ePpyfWuWF6MjkXlNBBPZm8WWpzS7zgs851pwoIZXY9sU3Gdg1oGff8bLqt3t\nKO5JF2qzuKVIC5h84FCiSgBpw6VB/+GJD06S+NNuNXBGA3V8hm0cCJ9s1m4L/ss2\nudH23u+/0d3XCpRKkZrJ6wEGYVLdWO+DUe43kM7VApBdEuw87L49vS74YOafxvxe\nguXoWiV2EL466z3wTNA/W6yDaO2qAemNi1YOz6SDEBFMli1N9RvyKK11mTBd6xDG\n9Ks=\n-----END ENCRYPTED PRIVATE KEY-----\n",
+      "passphrase": "c7001db831afe091c4d772ab658fc089"
+    }
+  },
+  "enterpriseID": "51672667"
+}
